@@ -1,0 +1,77 @@
+---
+image: profile.jpg
+image-shape: rounded
+about:
+  template: trestles
+  image-width: 15em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sudesh-bhagat-mctp-13891230/
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: Email
+      href: bhagat@iastate.edu
+---
+
+::: {#hero-heading}
+# Sudesh Bhagat
+
+Doctoral Student, Intelligent Infrastructure\
+Iowa State University
+
+## Education
+
+M.S. in Telecommunications and Networking, Ohio University
+
+## Experience
+
+### Database Analyst
+
+-   Imported and exported data from Access as well as other database formats and added links to various systems.
+
+-   Built and ran necessary database queries to retrieve necessary information for analysis.
+
+-   Built and ran maintenance of forms as requested by various departments.
+
+-   Ran data verification checks across data sources and identify inconsistencies.
+
+-   Assisted with the coordination of data collection efforts across various departments.\
+    Imported and exported data from Access to other database formats and add links to various systems.
+
+-   Provided administrative/data related assistance to the OIAP Staff (Director, Program Analyst).
+
+### System Analyst
+
+-   Created a database for the analysis of MCAT scores of students.
+
+-   Created a user best practice manual for patient health information for IPAC.
+
+-   Designed and implemented a Polycom RealConnect Videoconferencing solution requiring deployment of Microsoft Skype for Business Front End and Edge Server.
+
+-   Deployed Polycom Unified Communication Servers and Microsoft Active Directory domain on VMWare environment to support Polycom RealConnect integrating Polycom video conferencing and Skype for Business.
+
+-   Configure switches for accommodating video conferencing capabilities.\
+    Manage and monitor inventory as well as software updates using SCCM, in addition to image and application deployment.
+
+-   Manage and monitor the implementation of policies such as HIPPA and FREPPA using GPO to ensure system compliance, in addition to mapping of hardware such as printers and shared drive.
+
+-   Ensure security of all equipment and systems and comply with transmission security requirements, including those of the department and hospital as well as federal rules and regulation.
+
+-   Directly handle the installation, organization, and maintenance of end user workstations and interrelated hardware and software, such as update of antivirus and upgrade of laptops and software.
+
+-   Provide key support for various clinical, academic and research technologies including electronic health record.\
+    Configure necessary data security measures by providing accessibility according to employees' information needs.
+
+-   Manage users, groups, computers and email accounts (distribution and security groups) in Active Directory and Microsoft Exchange.
+
+-   Resolve server and network issues such as backup problems, compatibility issues for both software and hardware.
+
+-   Monitor and maintain all the required evaluations, consent forms, inventory logs, grant management and other required records.
+
+-   **Notable Achievement: Employee of the year recognition**
+:::

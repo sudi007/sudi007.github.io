@@ -1,0 +1,19 @@
+---
+title: "Favorite Resources"
+---
+
+## PyData (conference + videos)
+
+Source:https://pydata.org/
+
+PyData is NumFOCUS's instructional program. NumFOCUS hosts conferences worldwide to offer a networking platform for the various stakeholders in the industry. The conference proceedings focus on Python best practices, real-world scenarios (data analysis or marketing), new libraries.
+
+Attending the conference in person is particularly beneficial as it affords the attendees an opportunity to actively participate in lectures, ask questions, and network with like-minded people. However, the conference proceedings are recorded and made available on YouTube, a few months after the conference.
+
+PyData lectures present case studies featuring other organizations and the strategies they used pertaining to the various topics.
+
+## Machine Learning Mastery
+
+source:https://machinelearningmastery.com/about/
+
+A go-to website for data scientists is Jason Brownlee's website/blog which has tutorials on topics such as Linear Regression, ARIMA, and machine/deep learning. Python code applies the notion to a toy dataset in the papers. The website explains the concepts and offers suggestions about additional reading to build a sturdy theoretical base. Furthermore, the website is easy to navigate and offers the option to filter articles by topic.
